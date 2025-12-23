@@ -1,0 +1,1 @@
+Monitoring stock fashion product
