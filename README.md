@@ -33,5 +33,16 @@ Sesuaikan file konfigurasi koneksi database
 4. Jalankan server
 http://localhost/Monitoring-Stok-Produk
 
+🎯 Tujuan Pengembangan
+Mempermudah pengelolaan stok barang
+Mengurangi kesalahan pencatatan manual
+Memberikan informasi stok secara cepat dan akurat
+Mendukung pengambilan keputusan terkait persediaan
+
+> Pengembangan Selanjutnya
+Integrasi dengan sistem IoT untuk monitoring otomatis
+Implementasi notifikasi real-time
+Pengembangan fitur analisis data stok
+Integrasi dengan sistem penjualan
 
 
